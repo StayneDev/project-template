@@ -2,16 +2,27 @@
 
 > Descrição breve do projeto.
 
+## Status
+
+`Em desenvolvimento` | `Produção` | `Pausado`
+
 ## Stack
 
-- [ ] Linguagem/Framework principal
-- [ ] Banco de dados
-- [ ] Infraestrutura
+| Componente | Papel |
+|---|---|
+| Linguagem / Framework | — |
+| Banco de dados | — |
+| Infraestrutura | — |
+
+## Pré-requisitos
+
+- [ ] Dependência 1
+- [ ] Dependência 2
 
 ## Setup
 
 ```bash
-# Instruções de setup
+# Instruções de instalação
 ```
 
 ## Estrutura
@@ -25,5 +36,5 @@
 
 ## Links
 
-- Issues: [GitHub Issues](../../issues)
-- Roadmap: `/opt/infra-backup/docs/roadmap.md`
+- [Issues](../../issues)
+- [Roadmap](/opt/infra-backup/docs/roadmap.md)
