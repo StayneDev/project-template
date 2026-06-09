@@ -31,10 +31,11 @@
 /
 ├── docs/          # Documentação
 ├── .github/       # Templates de issues e PRs
+├── CLAUDE.md      # Briefing do projeto para o framework ARF
 └── README.md
 ```
 
 ## Links
 
 - [Issues](../../issues)
-- [Roadmap](/opt/infra-backup/docs/roadmap.md)
+- [Milestones](../../milestones)
